@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![SixtoPineda's GitHub stats](https://github-readme-stats.vercel.app/api?username=SixtoPineda&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=nightowl)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SixtoPineda&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SixtoPineda&layout=compact&theme=nightowl)
