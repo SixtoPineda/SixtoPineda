@@ -2,6 +2,11 @@
 
 # Welcome <img src="https://raw.githubusercontent.com/SixtoPineda/SixtoPineda/main/img/hello.gif" width="40px">
 <p align="left">
+	
+	<a href="https://twitter.com/syxtyn99">
+		<img alt="Twitter" src="https://img.shields.io/badge/-Twitter-D16916?style=flat&logo=Gmail&logoColor=white&link=https://twitter.com/syxtyn99" />
+	</a>
+	<span> º </span>
 	<a href="mailto:sixtopv@gmail.com">
 		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-D16916?style=flat&logo=Gmail&logoColor=white&link=mailto:sixtopv@gmail.com" />
 	</a>
