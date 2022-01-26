@@ -2,6 +2,10 @@
 
 # Welcome <img src="https://raw.githubusercontent.com/SixtoPineda/SixtoPineda/main/img/hello.gif" width="40px">
 <p align="left">
+	<a href="mailto:sixtopv@gmail.com">
+		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:sixtopv@gmail.com" />
+	</a>
+	<span> · </span>
 	<a href="https://www.linkedin.com/in/sixto-pineda-v/">
 		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sixto-pineda-v/" />
 	</a>
