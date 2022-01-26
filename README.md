@@ -1,7 +1,7 @@
 <p  align="center"><img src = "https://raw.githubusercontent.com/SixtoPineda/SixtoPineda/main/img/bg.png"></p>
 
 # Welcome <img src="https://raw.githubusercontent.com/SixtoPineda/SixtoPineda/main/img/hello.gif" width="40px">
-<p align="center">
+<p align="left">
 	<a href="https://www.linkedin.com/in/sixto-pineda-v/">
 		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sixto-pineda-v/" />
 	</a>
