@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Student at [42 Barcelona](https://www.42barcelona.com/es/)
+[![spineda-'s 42 stats](https://badge42.herokuapp.com/api/stats/spineda-?darkmode=true&privacyName=true)](https://github.com/JaeSeoKim/badge42)
 ## GitHub Stats
 ![SixtoPineda's GitHub stats](https://github-readme-stats.vercel.app/api?username=SixtoPineda&count_private=true&show_icons=true&hide=issues&theme=nightowl)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SixtoPineda&layout=compact&theme=nightowl)
 
-[![spineda-'s 42 stats](https://badge42.herokuapp.com/api/stats/spineda-?darkmode=true&privacyName=true)](https://github.com/JaeSeoKim/badge42)
+
