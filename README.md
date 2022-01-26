@@ -3,7 +3,7 @@
 # Welcome <img src="https://raw.githubusercontent.com/SixtoPineda/SixtoPineda/main/img/hello.gif" width="40px">
 <p align="left">
 	<a href="https://twitter.com/syxtyn99">
-		<img alt="Twitter" src="https://img.shields.io/twitter/follow/syxtyn99?label=follow&style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/syxtyn99" />
+		<img alt="Twitter" src="https://img.shields.io/twitter/follow/syxtyn99-D16916?label=follow&style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/syxtyn99" />
 	</a>
 	<span> º </span>
 	<a href="mailto:sixtopv@gmail.com">
