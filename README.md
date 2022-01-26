@@ -1,8 +1,7 @@
 <p  align="center"><img src = "https://raw.githubusercontent.com/SixtoPineda/SixtoPineda/main/img/bg.png"></p>
 
 # Welcome <img src="https://raw.githubusercontent.com/SixtoPineda/SixtoPineda/main/img/hello.gif" width="40px">
-<p align="left">
-	<span> º </span>
+<p align="center">
 	<a href="mailto:sixtopv@gmail.com">
 		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-D16916?style=flat&logo=Gmail&logoColor=white&link=mailto:sixtopv@gmail.com" />
 	</a>
