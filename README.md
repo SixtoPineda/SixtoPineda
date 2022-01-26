@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 ![SixtoPineda's GitHub stats](https://github-readme-stats.vercel.app/api?username=SixtoPineda&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=nightowl)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SixtoPineda&layout=compact&theme=nightowl)
-[![spineda-'s 42 stats](https://badge42.herokuapp.com/api/stats/spineda-?privacyName=true?darkmode=true&cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
+[![spineda-'s 42 stats](https://badge42.herokuapp.com/api/stats/spineda-?privacyName=true)](https://github.com/JaeSeoKim/badge42)
+[![spineda-'s 42 stats](https://badge42.herokuapp.com/api/stats/spineda-?privacyName=true?darkmode=true&privacyName=true)](https://github.com/JaeSeoKim/badge42)
