@@ -3,7 +3,7 @@
 # Welcome <img src="https://raw.githubusercontent.com/SixtoPineda/SixtoPineda/main/img/hello.gif" width="40px">
 <p align="left">
 	<a href="https://twitter.com/syxtyn99">
-		<img alt="Twitter" src="https://img.shields.io/twitter/follow/syxtyn99?style=social" />
+		<img alt="Twitter" src="https://img.shields.io/twitter/follow/syxtyn99?style=flat" />
 	</a>
 	<span> º </span>
 	<a href="mailto:sixtopv@gmail.com">
@@ -12,6 +12,10 @@
 	<span> º </span>
 	<a href="https://www.linkedin.com/in/sixto-pineda-v/">
 		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sixto-pineda-v/" />
+	</a>
+	<span> º </span>
+	<a href="https://github.com/SixtoPineda">
+		<img alt="Ask Me Anything" src="https://img.shields.io/github/followers/sixtopineda?label=follow&style=flat" />
 	</a>
 </p>
 
