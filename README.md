@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/SixtoPineda/SixtoPineda/main/img/hello.gif" width="50px">
+# Welcome <img src="https://raw.githubusercontent.com/SixtoPineda/SixtoPineda/main/img/hello.gif" width="40px">
 <!--
 **SixtoPineda/SixtoPineda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
