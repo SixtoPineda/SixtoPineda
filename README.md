@@ -17,7 +17,7 @@
 	<a href="https://www.linkedin.com/in/sixto-pineda-v/">
 		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sixto-pineda-v/" />
 	</a>
-	<span> º </span>
+	:small_blue_diamond:
 	<a href="https://twitter.com/syxtyn99">
 		<img alt="Twitter" src="https://img.shields.io/twitter/follow/syxtyn99?label=follow&style=social&logo=Twitter&link=https://twitter.com/syxtyn99" />
 	</a>
