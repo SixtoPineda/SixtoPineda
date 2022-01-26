@@ -2,9 +2,6 @@
 
 # Welcome <img src="https://raw.githubusercontent.com/SixtoPineda/SixtoPineda/main/img/hello.gif" width="40px">
 <p align="left">
-	<a href="https://twitter.com/syxtyn99">
-		<img alt="Twitter" src="https://img.shields.io/twitter/follow/syxtyn99?label=follow&style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/syxtyn99" />
-	</a>
 	<span> º </span>
 	<a href="mailto:sixtopv@gmail.com">
 		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-D16916?style=flat&logo=Gmail&logoColor=white&link=mailto:sixtopv@gmail.com" />
@@ -14,8 +11,8 @@
 		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sixto-pineda-v/" />
 	</a>
 	<span> º </span>
-	<a href="https://github.com/SixtoPineda">
-		<img alt="Ask Me Anything" src="https://img.shields.io/github/followers/sixtopineda?label=follow&style=flat&logo=GitHub&logoColor=white&link=https://github.com/SixtoPineda" />
+	<a href="https://twitter.com/syxtyn99">
+		<img alt="Twitter" src="https://img.shields.io/twitter/follow/syxtyn99?label=follow&style=social&logo=Twitter&logoColor=white&link=https://twitter.com/syxtyn99" />
 	</a>
 </p>
 
