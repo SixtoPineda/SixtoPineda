@@ -1,4 +1,4 @@
-<p  align="center"><img height="380" src = "https://raw.githubusercontent.com/SixtoPineda/SixtoPineda/main/img/bg.png"></p>
+<p  align="center"><img src = "https://raw.githubusercontent.com/SixtoPineda/SixtoPineda/main/img/bg.png"></p>
 
 # Welcome <img src="https://raw.githubusercontent.com/SixtoPineda/SixtoPineda/main/img/hello.gif" width="40px">
 
