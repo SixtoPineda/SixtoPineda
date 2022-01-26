@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![SixtoPineda's GitHub stats](https://github-readme-stats.vercel.app/api?username=SixtoPineda&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=nightowl)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SixtoPineda&layout=compact&theme=nightowl)
-[![spienda-'s 42 stats](https://badge42.herokuapp.com/api/stats/spienda-?privacyName=true)](https://profile.intra.42.fr/users/spienda-)
+[![spienda-'s 42 stats](https://badge42.herokuapp.com/api/stats/spienda-?privacyName=true)](https://profile.intra.42.es/users/spienda-)
