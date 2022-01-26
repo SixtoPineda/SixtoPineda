@@ -4,7 +4,7 @@
 <p align="left">
 	
 	<a href="https://twitter.com/syxtyn99">
-		<img alt="Twitter" src="https://img.shields.io/badge/-Twitter-D16916?style=flat&logo=Gmail&logoColor=white&link=https://twitter.com/syxtyn99" />
+		<img alt="Twitter" src="https://img.shields.io/badge/-Twitter-D16916?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/syxtyn99" />
 	</a>
 	<span> º </span>
 	<a href="mailto:sixtopv@gmail.com">
