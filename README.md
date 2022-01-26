@@ -12,7 +12,7 @@
 	</a>
 	<span> º </span>
 	<a href="https://twitter.com/syxtyn99">
-		<img alt="Twitter" src="https://img.shields.io/twitter/follow/syxtyn99?label=follow&style=social&logo=Twitter&logoColor=white&link=https://twitter.com/syxtyn99" />
+		<img alt="Twitter" src="https://img.shields.io/twitter/follow/syxtyn99?label=follow&style=social&logo=Twitter&logoColor=blue&link=https://twitter.com/syxtyn99" />
 	</a>
 </p>
 
