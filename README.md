@@ -4,7 +4,7 @@
 
 
 ## Student at [42 Barcelona](https://www.42barcelona.com/es/)
-<!--[![spineda-'s 42 stats](https://badge42.herokuapp.com/api/stats/spineda-?darkmode=true&privacyName=true)](https://github.com/JaeSeoKim/badge42)-->
+[![spineda-'s 42 stats](https://badge42.vercel.app/api/v2/cl20d8uvd001109l9z9pr42vw/stats?cursusId=21&coalitionId=206)](https://github.com/JaeSeoKim/badge42)
 ## GitHub Stats
 ![SixtoPineda's GitHub stats](https://github-readme-stats.vercel.app/api?username=SixtoPineda&count_private=true&show_icons=true&hide=issues&theme=nightowl)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SixtoPineda&layout=compact&theme=nightowl)
