@@ -1,6 +1,6 @@
 <p  align="center"><img src = "https://github.com/SixtoPineda/SixtoPineda/blob/main/src/img/bg%20(1).gif?raw=true" style="border-radius:80%"></p>
 
-# Welcome <img src="https://raw.githubusercontent.com/SixtoPineda/SixtoPineda/main/src/img/hello.gif" width="5px">
+# Welcome <img src="https://raw.githubusercontent.com/SixtoPineda/SixtoPineda/main/src/img/hello.gif" width=5% height=5%>
 
 
 ## Student at [42 Barcelona](https://www.42barcelona.com/es/)
